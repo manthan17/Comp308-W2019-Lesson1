@@ -6,16 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
   "author": "Manthan Shah",
   "license": "ISC",
-  "bugs": {
-    
-  },
   "dependencies": {
     "bootstrap": "^4.2.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manthan17/Comp308-W2019-Lesson1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manthan17/Comp308-W2019-Lesson1/issues"
+  },
+  "homepage": "https://github.com/manthan17/Comp308-W2019-Lesson1#readme"
 }
