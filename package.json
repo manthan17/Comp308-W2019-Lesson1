@@ -1,10 +1,9 @@
 {
-  "name": "comp308-w2019-lesson1",
+  "name": "comp308-w2019-lesson2",
   "version": "1.0.0",
   "description": "NodeJS Demo",
   "main": "index.js",
   "scripts": {
-    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Manthan Shah",
@@ -17,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manthan17/Comp308-W2019-Lesson1.git"
+    "url": "git+https://github.com/manthan17/Comp308-W2019-Lesson2.git"
   },
   "bugs": {
     "url": "https://github.com/manthan17/Comp308-W2019-Lesson1/issues"
   },
-  "homepage": "https://github.com/manthan17/Comp308-W2019-Lesson1#readme"
+  "homepage": "https://github.com/manthan17/Comp308-W2019-Lesson2#readme"
 }
